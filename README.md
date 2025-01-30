@@ -37,9 +37,7 @@ Dark mode for better user experience.
 
 Inspired by financial planning tools and banking applications
 
-#Author
+# Author
 
 Ayush Verma
-LinkedIn | GitHub
-
 Feel free to contribute or suggest improvements!
