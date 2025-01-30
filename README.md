@@ -22,3 +22,13 @@ Enter Details: Input the principal amount, interest rate, and tenure.
 Select Calculation Type: Choose between simple interest and compound interest.
 
 View Results: Instantly see the maturity amount and interest earned.
+
+# Future Enhancements
+
+Support for different compounding periods (monthly, quarterly, yearly, etc.).
+
+Currency converter for international users.
+
+Option to save and compare multiple FDs.
+
+Dark mode for better user experience.
