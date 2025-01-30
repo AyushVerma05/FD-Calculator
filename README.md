@@ -32,3 +32,14 @@ Currency converter for international users.
 Option to save and compare multiple FDs.
 
 Dark mode for better user experience.
+
+# Acknowledgments
+
+Inspired by financial planning tools and banking applications
+
+#Author
+
+Ayush Verma
+LinkedIn | GitHub
+
+Feel free to contribute or suggest improvements!
