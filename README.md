@@ -14,3 +14,11 @@ Responsive design for all devices.
 # Technologies Used
 
 Frontend: HTML, CSS, JavaScript
+
+# How to Use
+
+Enter Details: Input the principal amount, interest rate, and tenure.
+
+Select Calculation Type: Choose between simple interest and compound interest.
+
+View Results: Instantly see the maturity amount and interest earned.
