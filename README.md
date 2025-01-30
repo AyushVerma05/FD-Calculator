@@ -10,3 +10,7 @@ Support for both simple and compound interest calculations.
 User-friendly interface with instant results.
 
 Responsive design for all devices.
+
+# Technologies Used
+
+Frontend: HTML, CSS, JavaScript
